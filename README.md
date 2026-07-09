@@ -407,7 +407,7 @@ A complete second client with the same features, organized as `models/` (data), 
 ### Install
 
 ```bash
-git clone https://github.com/civitechglobal/checkker.git
+git clone https://github.com/civitech-global/checkker.git
 cd checkker
 npm install
 ```
